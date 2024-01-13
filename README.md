@@ -5,7 +5,7 @@
 
 - This tutorial covers most steps in the ML pipeline:
 
-- - 1. Understanding the dataset
+  - 1. Understanding the dataset
 
 2. Data Assembling and Preprocessing
 
