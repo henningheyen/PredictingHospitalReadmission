@@ -5,17 +5,17 @@
 
 - This tutorial covers most steps in the ML pipeline
 
-[1 Understanding the dataset]
+1. Understanding the dataset
 
-[2 Data Assembling and Preprocessing]
+2. Data Assembling and Preprocessing
 
-[3 Machine Learning Pipeline]
+3. Machine Learning Pipeline
   
-[4 Alternative Pipeline]
+4. Alternative Pipeline
   
-[5 Model Interpretation]
+5. Model Interpretation
   
-[6 Limitations and potential Solutions]
+6. Limitations and potential Solutions
   
 
 # Getting Started
