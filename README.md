@@ -5,4 +5,11 @@
 
 - This tutorial covers most steps in the ML pipeline (preprocessing, training, evaluation, interpretation...)
 
+
+# Getting Started
+
+To run the notebook locally just install all required packages.
+
+`pip install -r requirements.txt`
+
   
